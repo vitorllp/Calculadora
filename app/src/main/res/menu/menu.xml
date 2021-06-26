@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/modoNormalMI"
+        android:title="Calculadora Normal"/>
+    <item
+        android:id="@+id/modoAvancadoMI"
+        android:title="Calculadora Avançada" />
+</menu>
